@@ -71,5 +71,5 @@ git checkout мастер ,а потом git merge ветка
 git branch -d ветка
 ////
 
-git merge - сливает одну ветку с другой..
+git merge - сливает одну ветку с другой...
 
