@@ -10,7 +10,7 @@ public class Dvoichniy_Binarniy {
 public static int binar(int[] a, int key){
 
     //читаем индексы и его получаем
-    
+
        int low=0;
        int high=a.length-1;
        while(low<=high){
